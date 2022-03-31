@@ -1,4 +1,4 @@
-package com.mycompany.tarea5.resources;
+package sistemaServlet.presentation;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;

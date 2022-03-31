@@ -1,4 +1,4 @@
-package com.mycompany.tarea5;
+package sistemaServlet.logic;
 
 import javax.ws.rs.ApplicationPath;
 import javax.ws.rs.core.Application;
